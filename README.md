@@ -37,7 +37,7 @@
 
 ## FAQ
 #### How did I make my own eating sound?
-- I wrote `CustomEatSound = snd_heal_c` in [`undertalefoodpack_items.txt`](https://github.com/Mrmisterxd/pz-undertale-mod/blob/main/undertalefoodpack/media/scripts/undertalefoodpack_items.txt) (If your sound is short, it will be on infinite repeat, I just made it long)
+- I wrote `CustomEatSound = snd_heal_c` in [`undertalefoodpack_items.txt`](https://github.com/Mrmisterxd/pz-undertale-mod/blob/main/undertalefoodpack/media/scripts/undertalefoodpack_items.txt) (If your sound is short, it will be on infinite ***repeat***, I just made it long)
 
 #### How did I make Toriel's pie restore all my health?
 - I wrote a lua hook for this, in the file [`undertalefoodpack_items.txt`](https://github.com/Mrmisterxd/pz-undertale-mod/blob/main/undertalefoodpack/media/scripts/undertalefoodpack_items.txt) I wrote `OnEat = OnEat_TorielPie`, the lua hook itself (OnEat_TorielPie) is located at [`/undertalefoodpack/media/lua/shared/TorielPie_Script.lua`](https://github.com/Mrmisterxd/pz-undertale-mod/blob/main/undertalefoodpack/media/lua/shared/TorielPie_Script.lua)
