@@ -1,0 +1,176 @@
+module Base
+{
+    item Astronautfood
+    {
+        Type = Food,
+        DisplayCategory = Food,
+        Weight = 0.3,
+        DisplayName	= Astro_Food,
+        Icon = astronautfood,
+        HungerChange = -21,
+        ThirstChange = -3,
+        UnhappyChange = -5,
+        BoredomChange = -3,
+        Calories = 340,
+        Proteins = 13,
+        Tooltip = Austro_Food,
+        Carbohydrates = 43,
+        Lipids = 11,
+        DaysFresh = 33,
+        DaysTotallyRotten = 66,
+        CustomEatSound = snd_heal_c
+    }
+
+    item Pieverynicegoat
+    {
+        Type = Food,
+        DisplayCategory = Food,
+        Weight = 5,
+        DisplayName	= Butsco_Pie,
+        Icon = butterscotchpie,
+        HungerChange = -100,
+        ThirstChange = -10,
+        UnhappyChange = -100,
+        BoredomChange = -100,
+        Calories = 8000,
+        Proteins = 13,
+        Carbohydrates = 43,
+        Lipids = 11,
+        StressChange = -100,
+        FatigueChange = -100,
+        EnduranceChange = +100,
+        PainReduction = 100,
+        FluReduction = 100,
+        ReduceFoodSickness = 100,
+        ReduceInfectionPower = 100,
+        Tooltip = Full_Best_Pie,
+	OnEat = OnEat_TorielPie,
+        CustomEatSound = snd_heal_c
+    }
+
+    item Glamburger
+    {
+        Type = Food,
+        DisplayCategory = Food,
+        Weight = 0.4,
+        DisplayName	= Glamburger,
+        Icon = glamburger,
+        HungerChange = -27,
+        ThirstChange = -1,
+        UnhappyChange = -13,
+        BoredomChange = -6,
+        Calories = 650,
+        Proteins = 30,
+        Tooltip = Glamburger,
+        Carbohydrates = 50,
+        Lipids = 35,
+        DaysFresh = 33,
+        DaysTotallyRotten = 66,
+        CustomEatSound = snd_heal_c
+    }
+    
+    item Hotdogverygood
+    {
+        Type = Food,
+        DisplayCategory = Food,
+        Weight = 0.2,
+        DisplayName	= Hotdog_Undertale,
+        Icon = hotdog,
+        HungerChange = -15,
+        ThirstChange = +4,
+        UnhappyChange = -7,
+        BoredomChange = -3,
+        Calories = 320,
+        Proteins = 12,
+        Tooltip = Hotdog,
+        Carbohydrates = 30,
+        Lipids = 18,
+        DaysFresh = 33,
+        DaysTotallyRotten = 66,
+        CustomEatSound = snd_heal_c
+    }
+
+    item Hero
+    {
+        Type = Food,
+        DisplayCategory = Food,
+        Weight = 0.8,
+        DisplayName	= Legendary_Hero,
+        Icon = legendaryhero,
+        HungerChange = -54,
+        ThirstChange = +15,
+        UnhappyChange = -20,
+        BoredomChange = -20,
+        Calories = 850,
+        Proteins = 45,
+        Tooltip = LegendaryHero,
+        Carbohydrates = 60,
+        Lipids = 30,
+        DaysFresh = 33,
+        DaysTotallyRotten = 66,
+        CustomEatSound = snd_heal_c
+    }
+
+    item SpiderDonut
+    {
+        Type = Food,
+        DisplayCategory = Food,
+        Weight = 0.3,
+        DisplayName	= Spider_Donut,
+        Icon = spiderdonut,
+        HungerChange = -12,
+        ThirstChange = +3,
+        UnhappyChange = -12,
+        BoredomChange = -12,
+        Calories = 130,
+        Proteins = 11,
+        Tooltip = SpiderDonut,
+        Carbohydrates = 11,
+        Lipids = 11,
+        DaysFresh = 33,
+        DaysTotallyRotten = 66,
+        CustomEatSound = snd_heal_c
+    }
+
+    item StarFait
+    {
+        Type = Food,
+        DisplayCategory = Food,
+        Weight = 0.4,
+        DisplayName	= Star_Fait,
+        Icon = starfait,
+        HungerChange = -3,
+        ThirstChange = -33,
+        UnhappyChange = -30,
+        BoredomChange = -45,
+        Calories = 400,
+        Proteins = 33,
+        Tooltip = StarFait,
+        Carbohydrates = 45,
+        Lipids = 40,
+        DaysFresh = 33,
+        DaysTotallyRotten = 66,
+        CustomEatSound = snd_heal_c
+    }
+
+    item SteakMettatonFace
+    {
+        Type = Food,
+        DisplayCategory = Food,
+        Weight = 0.9,
+        DisplayName	= Steak_Mettaton_Face,
+        Icon = steakmettatonface,
+        HungerChange = -43,
+        ThirstChange = +23,
+        UnhappyChange = -23,
+        BoredomChange = -33,
+        Calories = 750,
+        Proteins = 70,
+        Tooltip = Mettaton_Steak,
+        Carbohydrates = 45,
+        Lipids = 40,
+        DaysFresh = 33,
+        DaysTotallyRotten = 66,
+        CustomEatSound = snd_heal_c
+    }
+}

@@ -1,0 +1,11 @@
+module Base {
+    sound snd_heal_c {
+        category = Action,
+        is3D = true,
+        loop = false,
+        clip {
+            file = media/sound/snd_heal_c.ogg,
+            distanceMax = 5,
+        }
+    }
+}
