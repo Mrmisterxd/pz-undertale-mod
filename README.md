@@ -2,7 +2,7 @@
 <h1> <a href="https://github.com/Mrmisterxd/pz-undertale-mod">Undertale food pack</a> </h1> 
 
 <p>This modification for Project Zomboid adds iconic food items from the game Undertale</p>
-<p>https://steamcommunity.com/sharedfiles/filedetails/?id=3695312858</p>
+<p>Steam Workshop -> https://steamcommunity.com/sharedfiles/filedetails/?id=3695312858</p>
 
 </div>
 
