@@ -42,6 +42,9 @@
 #### How did I make Toriel's pie restore all my health?
 - I wrote a lua hook for this, in the file [`undertalefoodpack_items.txt`](https://github.com/Mrmisterxd/pz-undertale-mod/blob/main/undertalefoodpack/media/scripts/undertalefoodpack_items.txt) I wrote `OnEat = OnEat_TorielPie`, the lua hook itself (OnEat_TorielPie) is located at [`/undertalefoodpack/media/lua/shared/TorielPie_Script.lua`](https://github.com/Mrmisterxd/pz-undertale-mod/blob/main/undertalefoodpack/media/lua/shared/TorielPie_Script.lua)
 
+## ℹ️ Contact me:
+- `Telegram` [@cryoffs](https://t.me/cryoffs)
+
 ## ⚖️ Licensing
 
 The project is distributed under the [MIT License](https://github.com/Mrmisterxd/bed-time/blob/main/LICENSE)
