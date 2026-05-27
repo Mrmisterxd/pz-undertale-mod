@@ -45,6 +45,11 @@
 ## ℹ️ Contact me:
 - `Telegram` [@cryoffs](https://t.me/cryoffs)
 
+### 🎨 Intellectual Property & Art Credits
+* All graphical assets (food item sprites), names, concepts, and designs included in this mod are the intellectual property of **Toby Fox** and lead artist **Temmie Chang (Tuyoki)**, creators of **Undertale**. 
+* The original images were adapted from the Undertale Wiki community platform for non-commercial use.
+* This is a **100% free, non-profit, fan-made project** created purely for entertainment purposes. It is not affiliated with, endorsed by, or associated with Toby Fox, Temmie Chang, or any official Undertale publishers. No copyright infringement is intended.
+
 ## ⚖️ Licensing
 
 The project is distributed under the [MIT License](https://github.com/Mrmisterxd/bed-time/blob/main/LICENSE)
