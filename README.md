@@ -52,4 +52,4 @@
 
 ## ⚖️ Licensing
 
-The project is distributed under the [MIT License](https://github.com/Mrmisterxd/bed-time/blob/main/LICENSE)
+The project is distributed under the [MIT License](https://github.com/Mrmisterxd/pz-undertale-mod/LICENSE)
