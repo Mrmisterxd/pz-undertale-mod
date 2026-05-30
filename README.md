@@ -6,7 +6,7 @@
 
 </div>
 
-## ℹ️What does each files do?[41 build]:
+## ℹ️What does each files do?[41 build/42 build also(the same files in directory '42')]:
 
 #### [`/undertalefoodpack/media/lua/server/items/UndertaleDistributions.lua`](https://github.com/Mrmisterxd/pz-undertale-mod/blob/main/undertalefoodpack/media/lua/server/items/UndertaleDistributions.lua)
 - This file distributes items across the server to different locations
