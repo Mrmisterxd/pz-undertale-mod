@@ -35,6 +35,10 @@
 #### [`/undertalefoodpack/preview.png`](https://github.com/Mrmisterxd/pz-undertale-mod/blob/main/undertalefoodpack/preview.png)
 - This file will be required by Project Zomboid if you want to release a mod, this is more of my personal file
 
+## ℹ️What does each files do?[41 build/42 build also(the same files in directory '42')]:
+#### [`/undertalefoodpack/42/icon.png`](https://github.com/Mrmisterxd/pz-undertale-mod/blob/main/undertalefoodpack/42/Icon.png):
+- A 32x32 pixel icon for display in the build 42 menu.
+
 ## FAQ
 #### How did I make my own eating sound?
 - I wrote `CustomEatSound = snd_heal_c` in [`undertalefoodpack_items.txt`](https://github.com/Mrmisterxd/pz-undertale-mod/blob/main/undertalefoodpack/media/scripts/undertalefoodpack_items.txt) (If your sound is short, it will be on infinite ***repeat***, I just made it long)
