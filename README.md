@@ -56,4 +56,4 @@
 
 ## ⚖️ Licensing
 
-The project is distributed under the [MIT License](https://github.com/Mrmisterxd/pz-undertale-mod/blob/main/LICENSE)
+The project is distributed under the [MIT License](https://github.com/Mrmisterxd/pz-undertale-mod/blob/main/LICENSE) (Be sure to read my personal license via the link or embedded in the project)
