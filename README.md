@@ -48,6 +48,7 @@
 
 ## ℹ️ Contact me:
 - `Telegram` [@cryoffs](https://t.me/cryoffs)
+- `Discord` [Link server](https://discord.gg/s8Meut9mda)
 
 ## 🎨 Intellectual Property & Art Credits
 * All graphical assets (food item sprites), names, concepts, and designs included in this mod are the intellectual property of **Toby Fox** and lead artist **Temmie Chang (Tuyoki)**, creators of **Undertale**. 
